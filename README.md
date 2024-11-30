@@ -1,6 +1,6 @@
 # Postman API Testing Collection
 ## Welcome to my Postman API testing repository! This repository contains Postman collections and environment setups for testing various APIs. The goal of this repository is to provide well-organized and reusable Postman collections that you can use for API testing, debugging, and automation.
-![newman Report](https://github.com/user-attachments/assets/f13a97c4-d6df-4379-b16e-f062f73a7794)
+![newman Report](https://github.com/user-attachments/assets/6ffd82d9-10c4-4c42-97c3-3c702a202119)
 ## Contents
 * Overview
 * API Collections
